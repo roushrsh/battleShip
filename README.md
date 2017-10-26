@@ -9,4 +9,4 @@ Ships are allowed to overlap to create larger ships, can also be place manually 
 
 Bombs are also randomly generated (currently support for up to 20).
 
-Per ship, it returns hit or miss for each position on the Ship.
+Per ship, it returns hit or miss for each position on the Ship, and prints it to a text file.
